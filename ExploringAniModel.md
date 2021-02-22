@@ -67,9 +67,9 @@ This section uses the [iModel Console](https://imodelconsole.bentley.com) to exe
 
 1. Select weight and length of pipes
 
-  ```SQL
-  SELECT p.LineNumber, p.Length, p.Weight FROM ProcessPhysical.PIPE
-  ```
+    ```SQL
+    SELECT p.LineNumber, p.Length, p.Weight FROM ProcessPhysical.PIPE
+    ```
 
 1. Sum up the length and weight of pipe by Line Number
 

@@ -85,4 +85,4 @@ This section uses the [iModel Console](https://imodelconsole.bentley.com) to exe
       FROM ProcessPhysical.PIPE p GROUP BY p.LineNumber, p.Component_Name
     ```
 
-[Next: Exploring Schemas](ExploringSchemas.md)
+[Next: Exploring Schemas in the Schema Explorer](ExploringSchemasGUI.md)

@@ -40,3 +40,5 @@ Relationship constraints differ for each relationship, here is a specilization o
 Don't forget to use the search bar to find what you're looking for!
 
 ![search](media/search.png)
+
+[Next: Exploring Schemas in the iModel Console](ExploringSchemasCLI.md)

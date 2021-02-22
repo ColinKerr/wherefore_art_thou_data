@@ -26,10 +26,10 @@ This section uses the [iModel Reporter](https://github.com/imodeljs/iModelReport
 Create reports for the following:
 
 - Sum of dry weights of devices by class and by category
-- Identify devices that have no dry weight set or dry weight set to zero
-- All functional elements and their corresponding physical element
-- Any functional elements without a corresponding physical element and vice versa.
+- Identify devices that have no dry weight set or have dry weight set to zero
+- All Functional Elements and their corresponding Physical Element
+- Any functional or physical elements without a corresponding physical or functional element.
 
 Try to build these queries before checking the answers
 
-[Report Queries](queriesForReport.md)
+[Report Queries](QueriesForReport.md)

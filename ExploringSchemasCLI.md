@@ -76,3 +76,5 @@ The `ECDbMeta` Schema exposes the `ec_` tables in the iModel via ECSQL.  The mos
       JOIN ECDbMeta.ECPropertyDef p ON p.Class.Id = abc.TargetECInstanceId 
       WHERE c.ECInstanceId = ec_classid('ProcessFunctional.NAMED_ITEM')
     ```
+
+[Next: Making A Report](MakingAReport.md)

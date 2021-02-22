@@ -4,10 +4,10 @@ This section uses the [iModel Console](https://imodelconsole.bentley.com) to exe
 
 ## Open an iModel in the iModel Console
 
-1. Go to `imodelconsole.bentley.com`
+1. Go to https://imodelconsole.bentley.com
 1. Select a project, then select an iModel then select a changeset
   ![open iModel in the Console](media/openiModelConsole.png)
-1. Wait until the green button in the lower left say Run
+1. Wait until the green button in the lower right says Run
   ![Run button in iModel Console](media/iModelConsoleRun.png)
 
 ## Basic Queries
@@ -68,7 +68,7 @@ This section uses the [iModel Console](https://imodelconsole.bentley.com) to exe
 1. Select weight and length of pipes
 
   ```SQL
-  SELECT p.LineNumber, p.Length, p.Length FROM ProcessPhysical.PIPE
+  SELECT p.LineNumber, p.Length, p.Weight FROM ProcessPhysical.PIPE
   ```
 
 1. Sum up the length and weight of pipe by Line Number

@@ -4,7 +4,7 @@ This section uses the [iModel Reporter](https://github.com/imodeljs/iModelReport
 
 ## Setup
 
-1. Install Prerequsites, Node 12, VS Code (or editor of your choice), Git
+1. Install Prerequisites, Node 12, VS Code (or editor of your choice), Git
 1. Clone Repo `git clone https://github.com/imodeljs/iModelReporter.git`
 1. Open iModelReporter repo in VS Code.
 1. Open `queries/example.json` and replace the URL field with the URL from a session if iTwin Design Review, iModel Console or iModel Schema Explorer with the `Bay Town Process Plant` opened.

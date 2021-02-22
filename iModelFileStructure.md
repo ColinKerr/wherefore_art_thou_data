@@ -14,4 +14,4 @@ The `ec_` tables hold the class information that map from the bis_ tables to the
 
 ![ec_ tables](media/ec_tables.png)
 
-[Next: Exploring an iModel](ExporingAniModel.md)
+[Next: Exploring an iModel](ExploringAniModel.md)

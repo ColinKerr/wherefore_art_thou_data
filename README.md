@@ -4,8 +4,12 @@ This is not a talk about OData.  This talk will cover what an iModel is, how dat
 
 ## Part 1
 
-[What is an iModel](WhatIsAniModel.md)
+[Introduction and Getting Started](Introduction.md)
 
 ## Part 2
+
+[What is BIS?](WhatIsBIS.md)
+
+## Part 3
 
 [How is an File iModel Structured?](iModelFileStructure.md)

@@ -1,12 +1,6 @@
-# What is an iModel?
+# What is BIS?
 
-An iModel is a Sqlite file with a fixed table structure designed for performance and scalability and an extensible metadata layer on top providing friendly queries.
-
-The extensible metadata layer is called [BIS (Base Infrastructure Schema)](https://www.itwinjs.org/bis/) and you query it using [ECSQL](https://www.itwinjs.org/learning/ecsql/)
-
-## What is BIS?
-
-BIS is a set of object oriented relational schemas built on a few core concepts.  
+BIS is a set of object oriented relational schemas that define the data model for an iModel.
 
 ## Core Schema Concepts
 
@@ -93,3 +87,5 @@ The [ElementRefersToElements](https://www.itwinjs.org/bis/domains/biscore.ecsche
 ### Subject Class
 
 Subject Elements define high level grouping of the data within an iModel.  For example the Model Tree in Design Review is built using the subject hierarchy.  See this [Example Information Hierarchy](https://www.itwinjs.org/bis/intro/information-hierarchy/#example-information-hierarchy) for an idea of what they look like.
+
+[Next: iModel File Structure](iModelFileStructure.md)

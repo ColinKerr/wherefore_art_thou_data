@@ -59,6 +59,7 @@ This section uses the [iModel Console](https://imodelconsole.bentley.com) to exe
       JOIN bis.Element s ON s.ECInstanceId = ere.SourceECInstanceId 
       JOIN bis.Element t ON t.ECInstanceId = ere.TargetECInstanceId 
       WHERE s.ECClassId IS (ProcessPhysical.PIPE) OR t.ECClassId IS (ProcessPhysical.PIPE)
+      GROUP BY s.ECClassId, t.ECClassId
     ```
 
     > NOTE 1: This is an `INNER JOIN`, if you want an OUTER JOIN use `LEFT JOIN`

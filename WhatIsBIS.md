@@ -32,7 +32,7 @@ Like a row in a standard relational database it is the instantiation of an Entit
 
 ## Core BIS Concepts
 
- > To understand how these core concepts are used to model data checkout [Modeling with BIS](https://www.itwinjs.org/bis/intro/modeling-with-bis/)
+ > For more on these core concepts checkout [Modeling with BIS](https://www.itwinjs.org/bis/intro/modeling-with-bis/)
 
 _________________
 
@@ -56,7 +56,7 @@ A [Model](https://www.itwinjs.org/bis/intro/model-fundamentals/) is an Entity cl
 
 ## Secondary BIS Concepts
 
- > This concepts help search for and understand data in an iModel
+ > These concepts help search for and understand data in an iModel
 
 _________________
 

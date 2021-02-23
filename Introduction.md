@@ -12,10 +12,12 @@ Bentley's Open Source libraries allow powerful custom applications and services 
 
 If you are not already signed up for a free iTwin Platform developer account [Sign up Here](https://developer.bentley.com/gettingstarted)
 
-Once you have an account go to the [registration dashboard](https://www.itwinjs.org/getting-started/registration-dashboard/?tab=1) to add the sample iModels to your demo project.  We will use the `Bay Town Process Plant` and `Stadium`.
+Once you have an account go to the [registration dashboard](https://www.itwinjs.org/getting-started/registration-dashboard/?tab=1) to add the sample iModels to your demo project.  We will use the `Bay Town Process Plant` sample.
 
-To follow along with this part you will need to clone and build the [iModelReporter](https://github.com/imodeljs/iModelReporter/) application.
+To follow along with this part you will need to clone and build the [iModel Reporter](https://github.com/imodeljs/imodel-reporter) application.
 
-We will also be using [iTwin Design Review](https://www.bentley.com/en/products/product-line/digital-twins/itwin-design-review), The [iModel Console](https://imodelconsole.bentley.com) and The [iModel Schema Explorer](https://imodelschemaeditor.bentley.com/).
+We will also be using The [iModel Console](https://imodelconsole.bentley.com) and The [iModel Schema Explorer](https://imodelschemaeditor.bentley.com/).
+
+Another useful tool that we will not be using directly is [iTwin Design Review](https://www.bentley.com/en/products/product-line/digital-twins/itwin-design-review).
 
 [Next: What is BIS](WhatIsBIS.md)

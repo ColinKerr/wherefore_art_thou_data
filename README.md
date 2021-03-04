@@ -24,7 +24,7 @@ This is not a talk about OData.  This talk will cover what an iModel is, how dat
 
 ## Part 6
 
-[Exploring Scheas in the iModel Console](ExploringSchemasCLI.md)
+[Exploring Schemas in the iModel Console](ExploringSchemasCLI.md)
 
 ## Part 7
 
